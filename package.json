@@ -1,0 +1,12 @@
+{
+  "name": "speakup-monorepo",
+  "version": "1.0.0",
+  "description": "SpeakUp - AI English Coach and Interview Preparation Agent",
+  "scripts": {
+    "build": "cd frontend && npm run build",
+    "dev:backend": "cd backend && PYTHONPATH=. ./venv/bin/uvicorn app.main:app --reload --port 8000",
+    "dev:frontend": "cd frontend && npm run dev",
+    "test:backend": "cd backend && PYTHONPATH=. ./venv/bin/pytest -v",
+    "seed": "cd backend && ./venv/bin/python generate_seed.py"
+  }
+}

@@ -1,0 +1,385 @@
+[
+  {
+    "id": "pt_01",
+    "type": "reading_fluency",
+    "prompt": "Read the following paragraph aloud in a clear, natural voice:",
+    "passage": "In modern logistics management, maintaining clear communication across teams is critical for timely order fulfillment. When unexpected transport bottlenecks occur, professionals who take proactive ownership can coordinate with customs brokers and warehouse supervisors to resolve documentation discrepancies before delays impact customer satisfaction."
+  },
+  {
+    "id": "pt_02",
+    "type": "grammar_mcq",
+    "question": "Choose the grammatically correct sentence regarding professional experience:",
+    "options": [
+      "I am having three years of experience in supply chain.",
+      "I have three years of experience in supply chain.",
+      "I had three years experience since 2021.",
+      "I am having experience of three years in supply chain."
+    ],
+    "correct_index": 1,
+    "explanation": "Use the simple present tense 'have' (not continuous 'am having') when stating ongoing possession of experience."
+  },
+  {
+    "id": "pt_03",
+    "type": "grammar_mcq",
+    "question": "Select the correct option to fill in the blank: 'We need to ________ the project milestones before submitting the budget.'",
+    "options": [
+      "discuss about",
+      "discuss",
+      "discuss regarding",
+      "discuss on"
+    ],
+    "correct_index": 1,
+    "explanation": "The verb 'discuss' is transitive and directly takes the object without prepositions like 'about' or 'regarding'."
+  },
+  {
+    "id": "pt_04",
+    "type": "grammar_mcq",
+    "question": "Choose the best professional phrasing: 'Please ________ at your earliest convenience.'",
+    "options": [
+      "revert back to me",
+      "reply to me",
+      "revert back with the needful",
+      "do the needful"
+    ],
+    "correct_index": 1,
+    "explanation": "'Reply to me' is clean and modern. 'Revert back' is redundant and 'do the needful' is archaic."
+  },
+  {
+    "id": "pt_05",
+    "type": "grammar_mcq",
+    "question": "Select the correct sentence:",
+    "options": [
+      "Neither the manager nor the supervisors was present at the meeting.",
+      "Neither the manager nor the supervisors were present at the meeting.",
+      "Neither the manager nor the supervisors are been present.",
+      "Neither the manager nor the supervisors were being present."
+    ],
+    "correct_index": 1,
+    "explanation": "With 'neither... nor...', the verb agrees with the closer subject ('supervisors' is plural, so 'were')."
+  },
+  {
+    "id": "pt_06",
+    "type": "grammar_mcq",
+    "question": "Which sentence correctly uses an article?",
+    "options": [
+      "He has an unique approach to solving logistics problems.",
+      "He has a unique approach to solving logistics problems.",
+      "He has unique approach to solving logistics problems.",
+      "He has the a unique approach to solving logistics problems."
+    ],
+    "correct_index": 1,
+    "explanation": "'Unique' begins with a consonant sound (/j/), so it takes the indefinite article 'a', not 'an'."
+  },
+  {
+    "id": "pt_07",
+    "type": "grammar_mcq",
+    "question": "Question 7: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_08",
+    "type": "grammar_mcq",
+    "question": "Question 8: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_09",
+    "type": "grammar_mcq",
+    "question": "Question 9: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_10",
+    "type": "grammar_mcq",
+    "question": "Question 10: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_11",
+    "type": "grammar_mcq",
+    "question": "Question 11: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_12",
+    "type": "grammar_mcq",
+    "question": "Question 12: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_13",
+    "type": "grammar_mcq",
+    "question": "Question 13: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_14",
+    "type": "grammar_mcq",
+    "question": "Question 14: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_15",
+    "type": "grammar_mcq",
+    "question": "Question 15: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_16",
+    "type": "grammar_mcq",
+    "question": "Question 16: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_17",
+    "type": "grammar_mcq",
+    "question": "Question 17: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_18",
+    "type": "grammar_mcq",
+    "question": "Question 18: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_19",
+    "type": "grammar_mcq",
+    "question": "Question 19: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_20",
+    "type": "grammar_mcq",
+    "question": "Question 20: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_21",
+    "type": "grammar_mcq",
+    "question": "Question 21: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_22",
+    "type": "grammar_mcq",
+    "question": "Question 22: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_23",
+    "type": "grammar_mcq",
+    "question": "Question 23: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_24",
+    "type": "grammar_mcq",
+    "question": "Question 24: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_25",
+    "type": "grammar_mcq",
+    "question": "Question 25: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_26",
+    "type": "grammar_mcq",
+    "question": "Question 26: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_27",
+    "type": "grammar_mcq",
+    "question": "Question 27: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_28",
+    "type": "grammar_mcq",
+    "question": "Question 28: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_29",
+    "type": "grammar_mcq",
+    "question": "Question 29: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  },
+  {
+    "id": "pt_30",
+    "type": "grammar_mcq",
+    "question": "Question 30: Choose the option that best expresses clarity and professional tone in workplace communication.",
+    "options": [
+      "Option A: Clear and direct workplace sentence.",
+      "Option B: Grammatically incorrect phrasing.",
+      "Option C: Redundant wording.",
+      "Option D: Incomplete fragment."
+    ],
+    "correct_index": 0,
+    "explanation": "Option A provides concise, direct professional English."
+  }
+]

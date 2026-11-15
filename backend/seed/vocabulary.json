@@ -1,0 +1,902 @@
+[
+  {
+    "id": "voc_001",
+    "word_or_phrase": "streamline",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "To make a system, organization, or process more efficient and simpler.",
+    "workplace_example": "We implemented an automated checklist to streamline our monthly dispatch audits.",
+    "collocations": "streamline processes, streamline operations"
+  },
+  {
+    "id": "voc_002",
+    "word_or_phrase": "bottleneck",
+    "cefr_level": "B1",
+    "context_tag": "operations",
+    "definition_simple": "A stage in a process that holds up or slows down the progress of everything else.",
+    "workplace_example": "The lack of shipping container availability became our biggest supply chain bottleneck.",
+    "collocations": "operational bottleneck, identify bottlenecks"
+  },
+  {
+    "id": "voc_003",
+    "word_or_phrase": "collaborate",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "To work jointly with others or together, especially in an intellectual endeavor.",
+    "workplace_example": "I collaborate closely with our finance department to ensure vendor payments are cleared on time.",
+    "collocations": "collaborate cross-functionally, collaborate on a project"
+  },
+  {
+    "id": "voc_004",
+    "word_or_phrase": "proactive",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "Acting in anticipation of future problems, needs, or changes rather than waiting to react.",
+    "workplace_example": "By being proactive, we identified the documentation error before the customs audit.",
+    "collocations": "take a proactive approach, proactive measures"
+  },
+  {
+    "id": "voc_005",
+    "word_or_phrase": "expedite",
+    "cefr_level": "B2",
+    "context_tag": "logistics",
+    "definition_simple": "To speed up the progress of a process or action.",
+    "workplace_example": "I contacted the port terminal manager directly to expedite the clearance of perishable goods.",
+    "collocations": "expedite shipment, expedite clearance"
+  },
+  {
+    "id": "voc_006",
+    "word_or_phrase": "reconciliation",
+    "cefr_level": "B2",
+    "context_tag": "finance",
+    "definition_simple": "The process of comparing two sets of records to ensure figures are in agreement and accurate.",
+    "workplace_example": "Our daily inventory reconciliation helped us eliminate discrepancies between warehouse and ERP records.",
+    "collocations": "bank reconciliation, stock reconciliation"
+  },
+  {
+    "id": "voc_007",
+    "word_or_phrase": "contingency",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "A future event or circumstance that is possible but cannot be predicted with certainty.",
+    "workplace_example": "We created a contingency plan in case the secondary carrier experienced transport strikes.",
+    "collocations": "contingency plan, contingency measures"
+  },
+  {
+    "id": "voc_008",
+    "word_or_phrase": "leverage",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "To use something to maximum advantage.",
+    "workplace_example": "We leveraged our vendor relationships to negotiate a 10% discount on bulk packaging material.",
+    "collocations": "leverage resources, leverage experience"
+  },
+  {
+    "id": "voc_009",
+    "word_or_phrase": "benchmark",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "A standard or point of reference against which things may be compared or assessed.",
+    "workplace_example": "We benchmark our dispatch turnaround time against the industry standard of 24 hours.",
+    "collocations": "set a benchmark, benchmark against competitors"
+  },
+  {
+    "id": "voc_010",
+    "word_or_phrase": "demurrage",
+    "cefr_level": "B2",
+    "context_tag": "export_import",
+    "definition_simple": "A penalty charge paid to a shipping company when a container is not unloaded or returned within the agreed free days.",
+    "workplace_example": "Accurate documentation submission helped our team avoid $3,000 in port demurrage charges.",
+    "collocations": "demurrage charges, avoid demurrage"
+  },
+  {
+    "id": "voc_011",
+    "word_or_phrase": "consignment",
+    "cefr_level": "B1",
+    "context_tag": "logistics",
+    "definition_simple": "A batch of goods delivered or sent to someone.",
+    "workplace_example": "The overseas consignment was inspected and cleared without any damages.",
+    "collocations": "export consignment, track consignment"
+  },
+  {
+    "id": "voc_012",
+    "word_or_phrase": "compliance",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "The action or fact of complying with rules, regulations, or statutory laws.",
+    "workplace_example": "We maintained 100% statutory compliance across all our GST filings this quarter.",
+    "collocations": "regulatory compliance, ensure compliance"
+  },
+  {
+    "id": "voc_013",
+    "word_or_phrase": "discrepancy",
+    "cefr_level": "B2",
+    "context_tag": "finance",
+    "definition_simple": "A lack of compatibility or similarity between two or more facts or numbers.",
+    "workplace_example": "I flagged a discrepancy of fifty thousand rupees between the purchase order and the vendor invoice.",
+    "collocations": "reconcile discrepancies, identify discrepancies"
+  },
+  {
+    "id": "voc_014",
+    "word_or_phrase": "turnaround time",
+    "cefr_level": "B1",
+    "context_tag": "operations",
+    "definition_simple": "The time taken to complete a process or fulfill an order from start to finish.",
+    "workplace_example": "By restructuring our shift handovers, we reduced customer turnaround time by thirty minutes.",
+    "collocations": "rapid turnaround time, improve turnaround time"
+  },
+  {
+    "id": "voc_015",
+    "word_or_phrase": "escalate",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "To increase rapidly or raise an issue to a higher authority level for intervention.",
+    "workplace_example": "When the vendor failed to respond for three days, I escalated the matter to the regional procurement head.",
+    "collocations": "escalate an issue, escalation matrix"
+  },
+  {
+    "id": "voc_016",
+    "word_or_phrase": "mitigate",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "To make something bad less severe, serious, or painful.",
+    "workplace_example": "We added secondary route options to mitigate the risk of monsoon transportation delays.",
+    "collocations": "mitigate risk, mitigate losses"
+  },
+  {
+    "id": "voc_017",
+    "word_or_phrase": "proficient",
+    "cefr_level": "B1",
+    "context_tag": "interview",
+    "definition_simple": "Competent, skilled, or adept in doing or using something.",
+    "workplace_example": "I am proficient in advanced Excel formulas including Pivot Tables and XLOOKUP.",
+    "collocations": "proficient in, highly proficient"
+  },
+  {
+    "id": "voc_018",
+    "word_or_phrase": "statutory",
+    "cefr_level": "B2",
+    "context_tag": "finance",
+    "definition_simple": "Required, permitted, or enacted by law or statute.",
+    "workplace_example": "We ensure all statutory deductions like PF and Professional Tax are calculated accurately.",
+    "collocations": "statutory compliance, statutory audit"
+  },
+  {
+    "id": "voc_019",
+    "word_or_phrase": "incur",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "To bring down upon oneself or become subject to an unwanted expense or penalty.",
+    "workplace_example": "The delay caused us to incur additional warehousing charges.",
+    "collocations": "incur expenses, incur penalties"
+  },
+  {
+    "id": "voc_020",
+    "word_or_phrase": "optimize",
+    "cefr_level": "B1",
+    "context_tag": "operations",
+    "definition_simple": "To make the best or most effective use of a situation, resource, or process.",
+    "workplace_example": "We reorganized our shelf layout to optimize warehouse picking speed.",
+    "collocations": "optimize efficiency, optimize workflow"
+  },
+  {
+    "id": "voc_021",
+    "word_or_phrase": "delegate",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "Entrust a task or responsibility to another person.",
+    "workplace_example": "Effective managers know how to delegate operational duties.",
+    "collocations": "delegate tasks"
+  },
+  {
+    "id": "voc_022",
+    "word_or_phrase": "incentive",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "A payment or concession that stimulates greater output.",
+    "workplace_example": "The company introduced an overtime incentive for festival shifts.",
+    "collocations": "performance incentive"
+  },
+  {
+    "id": "voc_023",
+    "word_or_phrase": "audit",
+    "cefr_level": "B1",
+    "context_tag": "finance",
+    "definition_simple": "An official inspection of an organization's accounts or processes.",
+    "workplace_example": "We passed the internal quality audit with zero non-conformances.",
+    "collocations": "conduct an audit"
+  },
+  {
+    "id": "voc_024",
+    "word_or_phrase": "procurement",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "The action of obtaining or purchasing goods and services.",
+    "workplace_example": "The procurement department negotiated revised payment terms.",
+    "collocations": "procurement strategy"
+  },
+  {
+    "id": "voc_025",
+    "word_or_phrase": "stakeholder",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "A person with an interest or concern in something, especially a business.",
+    "workplace_example": "I scheduled a weekly review to update all project stakeholders.",
+    "collocations": "key stakeholders"
+  },
+  {
+    "id": "voc_026",
+    "word_or_phrase": "bandwidth",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "The capacity or time needed to handle work.",
+    "workplace_example": "I currently have the bandwidth to take ownership of this new client account.",
+    "collocations": "operational bandwidth"
+  },
+  {
+    "id": "voc_027",
+    "word_or_phrase": "alignment",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "Arrangement in a straight line or agreement between factions.",
+    "workplace_example": "We held a sync meeting to ensure alignment across sales and operations.",
+    "collocations": "team alignment"
+  },
+  {
+    "id": "voc_028",
+    "word_or_phrase": "ad-hoc",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "Created or done for a particular purpose only as the need arises.",
+    "workplace_example": "I handled several ad-hoc inventory reports requested by the CFO.",
+    "collocations": "ad-hoc requests"
+  },
+  {
+    "id": "voc_029",
+    "word_or_phrase": "prioritize",
+    "cefr_level": "B1",
+    "context_tag": "interview",
+    "definition_simple": "Designate or treat something as more important than other things.",
+    "workplace_example": "I prioritize urgent customer dispatches before routine filing.",
+    "collocations": "prioritize tasks"
+  },
+  {
+    "id": "voc_030",
+    "word_or_phrase": "transparency",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "The condition of being open, honest, and easy to perceive.",
+    "workplace_example": "Our daily dashboard provides complete transparency into pending orders.",
+    "collocations": "maintain transparency"
+  },
+  {
+    "id": "voc_031",
+    "word_or_phrase": "variance",
+    "cefr_level": "B2",
+    "context_tag": "finance",
+    "definition_simple": "The difference between an expected budget and the actual expenditure.",
+    "workplace_example": "We identified a 5% positive variance in our freight expenditure.",
+    "collocations": "variance analysis"
+  },
+  {
+    "id": "voc_032",
+    "word_or_phrase": "throughput",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "The amount of material or items passing through a system or process.",
+    "workplace_example": "The new barcode scanner increased our packing throughput by 25%.",
+    "collocations": "daily throughput"
+  },
+  {
+    "id": "voc_033",
+    "word_or_phrase": "attrition",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "The reduction in staff numbers through retirement, resignation, or sickness.",
+    "workplace_example": "Our retention programs successfully lowered warehouse staff attrition.",
+    "collocations": "attrition rate"
+  },
+  {
+    "id": "voc_034",
+    "word_or_phrase": "redundant",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "No longer needed or useful; superfluous.",
+    "workplace_example": "Automating the data entry eliminated redundant manual steps.",
+    "collocations": "redundant steps"
+  },
+  {
+    "id": "voc_035",
+    "word_or_phrase": "pipeline",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "A linear sequence of specialized stages through which work progresses.",
+    "workplace_example": "We have fifteen export orders currently in the fulfillment pipeline.",
+    "collocations": "sales pipeline"
+  },
+  {
+    "id": "voc_036",
+    "word_or_phrase": "retention",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "The continued possession, use, or control of something (or employees).",
+    "workplace_example": "Customer retention improved after we shortened delivery times.",
+    "collocations": "employee retention"
+  },
+  {
+    "id": "voc_037",
+    "word_or_phrase": "forecasting",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "Predicting or estimating future events or trends.",
+    "workplace_example": "Accurate demand forecasting prevented stock-outs during Diwali.",
+    "collocations": "demand forecasting"
+  },
+  {
+    "id": "voc_038",
+    "word_or_phrase": "KPI",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "Key Performance Indicator used to evaluate success.",
+    "workplace_example": "Meeting our dispatch OTIF target is my primary KPI.",
+    "collocations": "track KPIs"
+  },
+  {
+    "id": "voc_039",
+    "word_or_phrase": "consistently",
+    "cefr_level": "B1",
+    "context_tag": "interview",
+    "definition_simple": "In every case or on every occasion; invariably.",
+    "workplace_example": "I have consistently achieved 98% accuracy in invoicing.",
+    "collocations": "perform consistently"
+  },
+  {
+    "id": "voc_040",
+    "word_or_phrase": "initiative",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "The ability to assess and initiate things independently.",
+    "workplace_example": "I took the initiative to build a template that reduced reporting time.",
+    "collocations": "take the initiative"
+  },
+  {
+    "id": "voc_041",
+    "word_or_phrase": "lead time",
+    "cefr_level": "B1",
+    "context_tag": "logistics",
+    "definition_simple": "The time between initiating a process and its completion.",
+    "workplace_example": "Supplier lead time increased by two weeks.",
+    "collocations": "lead time in the workplace, lead time example"
+  },
+  {
+    "id": "voc_042",
+    "word_or_phrase": "bill of lading",
+    "cefr_level": "B2",
+    "context_tag": "export_import",
+    "definition_simple": "A detailed list of a shipment of goods in the form of a receipt.",
+    "workplace_example": "The original bill of lading is required to release the container.",
+    "collocations": "bill of lading in the workplace, bill of lading example"
+  },
+  {
+    "id": "voc_043",
+    "word_or_phrase": "customs broker",
+    "cefr_level": "B1",
+    "context_tag": "export_import",
+    "definition_simple": "A private individual or firm licensed to assist importers and exporters.",
+    "workplace_example": "We work with our customs broker to clear air shipments.",
+    "collocations": "customs broker in the workplace, customs broker example"
+  },
+  {
+    "id": "voc_044",
+    "word_or_phrase": "purchase order",
+    "cefr_level": "B1",
+    "context_tag": "operations",
+    "definition_simple": "A commercial document issued by a buyer committing to pay the seller.",
+    "workplace_example": "We released the purchase order after obtaining director approval.",
+    "collocations": "purchase order in the workplace, purchase order example"
+  },
+  {
+    "id": "voc_045",
+    "word_or_phrase": "goods receipt note",
+    "cefr_level": "B1",
+    "context_tag": "operations",
+    "definition_simple": "A document acknowledging receipt of goods at the warehouse.",
+    "workplace_example": "Storekeepers verify physical count before generating the GRN.",
+    "collocations": "goods receipt note in the workplace, goods receipt note example"
+  },
+  {
+    "id": "voc_046",
+    "word_or_phrase": "reconcile",
+    "cefr_level": "B2",
+    "context_tag": "finance",
+    "definition_simple": "Compare two sets of records to ensure agreement.",
+    "workplace_example": "I reconcile bank accounts at the close of every business week.",
+    "collocations": "reconcile in the workplace, reconcile example"
+  },
+  {
+    "id": "voc_047",
+    "word_or_phrase": "incurred",
+    "cefr_level": "B2",
+    "context_tag": "finance",
+    "definition_simple": "Brought about or suffered an expense or loss.",
+    "workplace_example": "No additional demurrage was incurred on this consignment.",
+    "collocations": "incurred in the workplace, incurred example"
+  },
+  {
+    "id": "voc_048",
+    "word_or_phrase": "appraise",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "Assess the value, performance, or quality of someone or something.",
+    "workplace_example": "Managers appraise team performance every six months.",
+    "collocations": "appraise in the workplace, appraise example"
+  },
+  {
+    "id": "voc_049",
+    "word_or_phrase": "comprehensive",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "Complete and including everything that is necessary.",
+    "workplace_example": "I prepared a comprehensive report on our supply chain metrics.",
+    "collocations": "comprehensive in the workplace, comprehensive example"
+  },
+  {
+    "id": "voc_050",
+    "word_or_phrase": "facilitate",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "Make an action or process easy or easier.",
+    "workplace_example": "The new software will facilitate smoother inter-departmental handoffs.",
+    "collocations": "facilitate in the workplace, facilitate example"
+  },
+  {
+    "id": "voc_051",
+    "word_or_phrase": "seamless",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "Smooth and continuous, with no apparent gaps or problems.",
+    "workplace_example": "We ensured a seamless transition to the new inventory system.",
+    "collocations": "seamless in the workplace, seamless example"
+  },
+  {
+    "id": "voc_052",
+    "word_or_phrase": "cross-functional",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "Composed of members from various departments or functional areas.",
+    "workplace_example": "I led a cross-functional team of engineers and accountants.",
+    "collocations": "cross-functional in the workplace, cross-functional example"
+  },
+  {
+    "id": "voc_053",
+    "word_or_phrase": "autonomous",
+    "cefr_level": "C1",
+    "context_tag": "interview",
+    "definition_simple": "Having the freedom or authority to act independently.",
+    "workplace_example": "I am comfortable working in an autonomous role with minimal supervision.",
+    "collocations": "autonomous in the workplace, autonomous example"
+  },
+  {
+    "id": "voc_054",
+    "word_or_phrase": "deliverables",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "Tangible or intangible goods or services provided as a result of a project.",
+    "workplace_example": "We met all client deliverables two days ahead of schedule.",
+    "collocations": "deliverables in the workplace, deliverables example"
+  },
+  {
+    "id": "voc_055",
+    "word_or_phrase": "feasibility",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "The state or degree of being easily or conveniently done.",
+    "workplace_example": "We conducted a feasibility study before purchasing the new packaging machine.",
+    "collocations": "feasibility in the workplace, feasibility example"
+  },
+  {
+    "id": "voc_056",
+    "word_or_phrase": "governance",
+    "cefr_level": "C1",
+    "context_tag": "workplace",
+    "definition_simple": "The action or manner of governing or regulating an organization.",
+    "workplace_example": "Strong data governance ensures our customer records remain private.",
+    "collocations": "governance in the workplace, governance example"
+  },
+  {
+    "id": "voc_057",
+    "word_or_phrase": "implementation",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "The process of putting a decision or plan into effect.",
+    "workplace_example": "The CRM implementation took six months from kickoff to go-live.",
+    "collocations": "implementation in the workplace, implementation example"
+  },
+  {
+    "id": "voc_058",
+    "word_or_phrase": "milestone",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "A significant stage or event in the development of something.",
+    "workplace_example": "Clearing the first 10,000 orders was a proud milestone for our logistics team.",
+    "collocations": "milestone in the workplace, milestone example"
+  },
+  {
+    "id": "voc_059",
+    "word_or_phrase": "paramount",
+    "cefr_level": "C1",
+    "context_tag": "interview",
+    "definition_simple": "More important than anything else; supreme.",
+    "workplace_example": "Workplace safety is of paramount importance in our chemical warehouse.",
+    "collocations": "paramount in the workplace, paramount example"
+  },
+  {
+    "id": "voc_060",
+    "word_or_phrase": "benchmarking",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "Evaluating something by comparison with a standard.",
+    "workplace_example": "We are benchmarking our error rate against global third-party logistics standards.",
+    "collocations": "benchmarking in the workplace, benchmarking example"
+  },
+  {
+    "id": "voc_061",
+    "word_or_phrase": "concur",
+    "cefr_level": "C1",
+    "context_tag": "workplace",
+    "definition_simple": "Be of the same opinion; agree.",
+    "workplace_example": "Our internal auditor concurred with my recommendation to adjust the accrual.",
+    "collocations": "concur in the workplace, concur example"
+  },
+  {
+    "id": "voc_062",
+    "word_or_phrase": "substantiate",
+    "cefr_level": "C1",
+    "context_tag": "interview",
+    "definition_simple": "Provide evidence to support or prove the truth of something.",
+    "workplace_example": "Can you substantiate your claim that inventory turnover doubled?",
+    "collocations": "substantiate in the workplace, substantiate example"
+  },
+  {
+    "id": "voc_063",
+    "word_or_phrase": "tangible",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "Perceptible by touch; clear and definite; real.",
+    "workplace_example": "Automating our invoice matching yielded tangible cost savings of 15%.",
+    "collocations": "tangible in the workplace, tangible example"
+  },
+  {
+    "id": "voc_064",
+    "word_or_phrase": "unprecedented",
+    "cefr_level": "C1",
+    "context_tag": "workplace",
+    "definition_simple": "Never done or known before.",
+    "workplace_example": "During the cyclone, our transport fleet faced unprecedented road closures.",
+    "collocations": "unprecedented in the workplace, unprecedented example"
+  },
+  {
+    "id": "voc_065",
+    "word_or_phrase": "viable",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "Capable of working successfully; feasible.",
+    "workplace_example": "Switching from air freight to dedicated rail was an economically viable alternative.",
+    "collocations": "viable in the workplace, viable example"
+  },
+  {
+    "id": "voc_066",
+    "word_or_phrase": "ambiguity",
+    "cefr_level": "C1",
+    "context_tag": "interview",
+    "definition_simple": "Uncertainty or inexactness of meaning in language or situations.",
+    "workplace_example": "I thrive in fast-growing teams where there is operational ambiguity.",
+    "collocations": "ambiguity in the workplace, ambiguity example"
+  },
+  {
+    "id": "voc_067",
+    "word_or_phrase": "catalyst",
+    "cefr_level": "C1",
+    "context_tag": "interview",
+    "definition_simple": "A person or thing that precipitates an event or change.",
+    "workplace_example": "My Excel dashboard was the catalyst for revamping our weekly production reviews.",
+    "collocations": "catalyst in the workplace, catalyst example"
+  },
+  {
+    "id": "voc_068",
+    "word_or_phrase": "conducive",
+    "cefr_level": "C1",
+    "context_tag": "workplace",
+    "definition_simple": "Making a certain situation or outcome likely or possible.",
+    "workplace_example": "A quiet, organized dispatch office is conducive to error-free documentation.",
+    "collocations": "conducive in the workplace, conducive example"
+  },
+  {
+    "id": "voc_069",
+    "word_or_phrase": "deductive",
+    "cefr_level": "C1",
+    "context_tag": "workplace",
+    "definition_simple": "Characterized by the inference of particular instances from a general law.",
+    "workplace_example": "We used deductive reasoning to trace the root cause of the database lag.",
+    "collocations": "deductive in the workplace, deductive example"
+  },
+  {
+    "id": "voc_070",
+    "word_or_phrase": "exemplary",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "Serving as a desirable model; representing the best of its kind.",
+    "workplace_example": "She received an exemplary performance rating for maintaining zero shipping errors.",
+    "collocations": "exemplary in the workplace, exemplary example"
+  },
+  {
+    "id": "voc_071",
+    "word_or_phrase": "formulate",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "Create or devise methodically a strategy or proposal.",
+    "workplace_example": "We formulated a step-by-step Standard Operating Procedure for returns handling.",
+    "collocations": "formulate in the workplace, formulate example"
+  },
+  {
+    "id": "voc_072",
+    "word_or_phrase": "holistic",
+    "cefr_level": "C1",
+    "context_tag": "interview",
+    "definition_simple": "Characterized by comprehension of the parts of something as intimately interconnected.",
+    "workplace_example": "Taking a holistic view of the supply chain reduced overall freight expenditure.",
+    "collocations": "holistic in the workplace, holistic example"
+  },
+  {
+    "id": "voc_073",
+    "word_or_phrase": "impeccable",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "In accordance with the highest standards; faultless.",
+    "workplace_example": "He maintained an impeccable attendance and safety record throughout his tenure.",
+    "collocations": "impeccable in the workplace, impeccable example"
+  },
+  {
+    "id": "voc_074",
+    "word_or_phrase": "judicious",
+    "cefr_level": "C1",
+    "context_tag": "workplace",
+    "definition_simple": "Having, showing, or done with good judgment or sense.",
+    "workplace_example": "Judicious allocation of warehouse overtime prevented budget overruns.",
+    "collocations": "judicious in the workplace, judicious example"
+  },
+  {
+    "id": "voc_075",
+    "word_or_phrase": "lucrative",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "Producing a great deal of profit.",
+    "workplace_example": "We secured a lucrative five-year logistics contract with an automotive supplier.",
+    "collocations": "lucrative in the workplace, lucrative example"
+  },
+  {
+    "id": "voc_076",
+    "word_or_phrase": "meticulous",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "Showing great attention to detail; very careful and precise.",
+    "workplace_example": "Export documentation demands meticulous attention to HS codes and weights.",
+    "collocations": "meticulous in the workplace, meticulous example"
+  },
+  {
+    "id": "voc_077",
+    "word_or_phrase": "non-compliance",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "Failure or refusal to comply with rules or regulations.",
+    "workplace_example": "The port authority issued a warning for documentation non-compliance.",
+    "collocations": "non-compliance in the workplace, non-compliance example"
+  },
+  {
+    "id": "voc_078",
+    "word_or_phrase": "prerequisite",
+    "cefr_level": "B2",
+    "context_tag": "interview",
+    "definition_simple": "A thing that is required as a prior condition for something else to happen.",
+    "workplace_example": "An updated Import-Export Code (IEC) is a prerequisite for filing customs entries.",
+    "collocations": "prerequisite in the workplace, prerequisite example"
+  },
+  {
+    "id": "voc_079",
+    "word_or_phrase": "reiterate",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "Say something again or a number of times, typically for emphasis.",
+    "workplace_example": "I would like to reiterate that all shipping bills must be signed by 5 PM.",
+    "collocations": "reiterate in the workplace, reiterate example"
+  },
+  {
+    "id": "voc_080",
+    "word_or_phrase": "scrutinize",
+    "cefr_level": "C1",
+    "context_tag": "finance",
+    "definition_simple": "Examine or inspect closely and thoroughly.",
+    "workplace_example": "Our accounts team scrutinizes every vendor invoice exceeding one lakh rupees.",
+    "collocations": "scrutinize in the workplace, scrutinize example"
+  },
+  {
+    "id": "voc_081",
+    "word_or_phrase": "unanimous",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "Held or arrived at by everyone involved in an agreement.",
+    "workplace_example": "The leadership committee reached a unanimous decision to adopt SAP S/4HANA.",
+    "collocations": "unanimous in the workplace, unanimous example"
+  },
+  {
+    "id": "voc_082",
+    "word_or_phrase": "vulnerable",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "Susceptible to physical or emotional attack or damage.",
+    "workplace_example": "Single-source suppliers leave our supply chain vulnerable to factory shutdowns.",
+    "collocations": "vulnerable in the workplace, vulnerable example"
+  },
+  {
+    "id": "voc_083",
+    "word_or_phrase": "withstand",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "Remain undamaged or unaffected by; resist.",
+    "workplace_example": "Our reinforced shipping boxes are designed to withstand heavy monsoon moisture.",
+    "collocations": "withstand in the workplace, withstand example"
+  },
+  {
+    "id": "voc_084",
+    "word_or_phrase": "yield",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "Produce or provide a natural, agricultural, or industrial product.",
+    "workplace_example": "Process optimization allowed our packaging line to yield 12% more output per hour.",
+    "collocations": "yield in the workplace, yield example"
+  },
+  {
+    "id": "voc_085",
+    "word_or_phrase": "zealous",
+    "cefr_level": "C1",
+    "context_tag": "workplace",
+    "definition_simple": "Having or showing passion and energy in pursuit of a cause.",
+    "workplace_example": "The dispatch team was zealous about meeting the zero-error delivery challenge.",
+    "collocations": "zealous in the workplace, zealous example"
+  },
+  {
+    "id": "voc_086",
+    "word_or_phrase": "aptitude",
+    "cefr_level": "B1",
+    "context_tag": "interview",
+    "definition_simple": "A natural ability or talent to do something.",
+    "workplace_example": "I have a strong mathematical aptitude which helps in financial reconciliation.",
+    "collocations": "aptitude in the workplace, aptitude example"
+  },
+  {
+    "id": "voc_087",
+    "word_or_phrase": "bolster",
+    "cefr_level": "C1",
+    "context_tag": "workplace",
+    "definition_simple": "Support or strengthen; prop up.",
+    "workplace_example": "We hired temporary warehouse staff to bolster our delivery capacity during Diwali.",
+    "collocations": "bolster in the workplace, bolster example"
+  },
+  {
+    "id": "voc_088",
+    "word_or_phrase": "curtail",
+    "cefr_level": "C1",
+    "context_tag": "operations",
+    "definition_simple": "Reduce in extent or quantity; impose a restriction on.",
+    "workplace_example": "Management decided to curtail non-essential operational spending.",
+    "collocations": "curtail in the workplace, curtail example"
+  },
+  {
+    "id": "voc_089",
+    "word_or_phrase": "deterrent",
+    "cefr_level": "C1",
+    "context_tag": "workplace",
+    "definition_simple": "A thing that discourages or is intended to discourage someone from doing something.",
+    "workplace_example": "Strict gate pass checks serve as an effective deterrent against inventory theft.",
+    "collocations": "deterrent in the workplace, deterrent example"
+  },
+  {
+    "id": "voc_090",
+    "word_or_phrase": "elucidate",
+    "cefr_level": "C1",
+    "context_tag": "interview",
+    "definition_simple": "Make something clear; explain.",
+    "workplace_example": "Could you elucidate on the steps you took to reconcile the GST discrepancy?",
+    "collocations": "elucidate in the workplace, elucidate example"
+  },
+  {
+    "id": "voc_091",
+    "word_or_phrase": "fluctuation",
+    "cefr_level": "B2",
+    "context_tag": "finance",
+    "definition_simple": "An irregular rising and falling in number or amount; a variation.",
+    "workplace_example": "Currency fluctuation can significantly impact the landed cost of imported raw materials.",
+    "collocations": "fluctuation in the workplace, fluctuation example"
+  },
+  {
+    "id": "voc_092",
+    "word_or_phrase": "gross",
+    "cefr_level": "B1",
+    "context_tag": "finance",
+    "definition_simple": "Total before deductions (or flagrant/extreme).",
+    "workplace_example": "The company reported gross revenue of ten crore rupees this financial year.",
+    "collocations": "gross in the workplace, gross example"
+  },
+  {
+    "id": "voc_093",
+    "word_or_phrase": "hierarchy",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "A system in which members are ranked according to status.",
+    "workplace_example": "I report directly to the Senior Operations Manager in our regional hierarchy.",
+    "collocations": "hierarchy in the workplace, hierarchy example"
+  },
+  {
+    "id": "voc_094",
+    "word_or_phrase": "imminent",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "About to happen.",
+    "workplace_example": "We notified transport carriers of an imminent surge in container dispatch volumes.",
+    "collocations": "imminent in the workplace, imminent example"
+  },
+  {
+    "id": "voc_095",
+    "word_or_phrase": "jargon",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "Special words or expressions used by a profession that are difficult for others to understand.",
+    "workplace_example": "I explain complex customs regulations to clients without using confusing legal jargon.",
+    "collocations": "jargon in the workplace, jargon example"
+  },
+  {
+    "id": "voc_096",
+    "word_or_phrase": "keen",
+    "cefr_level": "B1",
+    "context_tag": "interview",
+    "definition_simple": "Having or showing eagerness or enthusiasm.",
+    "workplace_example": "I am very keen to apply my logistics expertise to your international operations.",
+    "collocations": "keen in the workplace, keen example"
+  },
+  {
+    "id": "voc_097",
+    "word_or_phrase": "lucidity",
+    "cefr_level": "C1",
+    "context_tag": "interview",
+    "definition_simple": "Clarity of expression; intelligibility.",
+    "workplace_example": "The interviewer appreciated the lucidity and structure of my STAR response.",
+    "collocations": "lucidity in the workplace, lucidity example"
+  },
+  {
+    "id": "voc_098",
+    "word_or_phrase": "mandatory",
+    "cefr_level": "B1",
+    "context_tag": "workplace",
+    "definition_simple": "Required by law or rules; compulsory.",
+    "workplace_example": "Wearing safety helmets and reflective vests is mandatory on the warehouse floor.",
+    "collocations": "mandatory in the workplace, mandatory example"
+  },
+  {
+    "id": "voc_099",
+    "word_or_phrase": "negligible",
+    "cefr_level": "B2",
+    "context_tag": "operations",
+    "definition_simple": "So small or unimportant as to be not worth considering.",
+    "workplace_example": "By sealing cartons properly, transit damages dropped to a negligible 0.05%.",
+    "collocations": "negligible in the workplace, negligible example"
+  },
+  {
+    "id": "voc_100",
+    "word_or_phrase": "oversight",
+    "cefr_level": "B2",
+    "context_tag": "workplace",
+    "definition_simple": "An unintentional failure to notice something, or supervision.",
+    "workplace_example": "Through rigorous managerial oversight, we caught the clerical error in time.",
+    "collocations": "oversight in the workplace, oversight example"
+  }
+]

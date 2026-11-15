@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q_001",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Tell me about yourself and summarize your professional background.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_002",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "What are your greatest professional strengths and your biggest growth area?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_003",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Why are you interested in joining our organization?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_004",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Describe a high-pressure situation and how you managed your priorities.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_005",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Tell me about a time you had a disagreement with a team member. How did you resolve it?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_006",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Where do you see yourself professionally in the next three to five years?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_007",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "What are your salary expectations for this position?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_008",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "How do you stay motivated when performing repetitive operational tasks?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_009",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Describe a mistake you made at work and how you corrected it.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_010",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Why are you looking to leave your current role?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_011",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "How do you handle constructive criticism from leadership?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_012",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Tell me about a time you had to adapt quickly to an unexpected policy change.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_013",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "How do you manage tight deadlines when multiple stakeholders demand your attention?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_014",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Describe a time you went above and beyond your standard job description.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_015",
+    "category": "HR & Behavioral",
+    "category_key": "hr",
+    "question_text": "Do you have any questions for us regarding the team or company culture?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_016",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "How do you identify and eliminate bottlenecks in daily process workflows?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_017",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Walk me through your experience with Standard Operating Procedures (SOPs).",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_018",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Describe a time an operational KPI dipped below target. What corrective action did you take?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_019",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "How do you balance cost reduction initiatives with operational output quality?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_020",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Tell me about a time you optimized a manual spreadsheet task into an automated workflow.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_021",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "How do you manage shift scheduling and handle unexpected team absenteeism?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_022",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Describe your experience with root cause analysis techniques like the 5 Whys or Fishbone diagram.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_023",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "How do you ensure workplace safety and compliance standards in daily operations?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_024",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Walk me through how you conduct an operational end-of-day audit.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_025",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Describe a scenario where a vendor failed to deliver on time. How did you maintain continuity?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_026",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "How do you introduce a new operational process to resistant team members?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_027",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "What metrics do you track daily to measure operational throughput and efficiency?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_028",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Describe a time you managed an equipment breakdown during a critical production run.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_029",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "How do you manage inventory stock-outs versus excess holding costs?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_030",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Tell me about a time you coordinated cross-functionally between procurement and warehouse teams.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_031",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "What strategies do you use for continuous process improvement (Kaizen / Lean)?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_032",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "How do you handle customer escalations arising from operational delivery delays?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_033",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Walk me through how you prepare an operational budget forecast.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_034",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "Describe an instance where you successfully reduced operating turnaround time.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_035",
+    "category": "Operations Management",
+    "category_key": "operations",
+    "question_text": "How do you audit operational vendor service level agreements (SLAs)?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_036",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Which ERP systems (SAP, Oracle, Microsoft Dynamics) have you worked with extensively?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_037",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Walk me through how you handle Master Data Management (MDM) for item codes or vendor masters.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_038",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Describe your experience during an ERP implementation or version migration.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_039",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "How do you troubleshoot transaction posting errors in SAP or your primary ERP?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_040",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Walk me through your process for generating and analyzing custom ERP reports.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_041",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "How do you ensure data integrity and prevent duplicate records in your CRM/ERP database?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_042",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Describe how you track sales pipeline stages and customer interactions in Salesforce or HubSpot.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_043",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "How do you train non-technical end users to follow standard ERP posting conventions?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_044",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Walk me through the Purchase-to-Pay (P2P) cycle within an ERP framework.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_045",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Walk me through the Order-to-Cash (O2C) workflow and key reconciliation milestones.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_046",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "How do you handle reconciliation discrepancies between physical inventory and ERP inventory?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_047",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Describe an instance where an ERP batch job failed. How did you diagnose the issue?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_048",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "How do you configure workflow approval matrices in an enterprise ERP?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_049",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "What controls do you implement to restrict user authorization roles and segregate duties?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_050",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "How do you export, clean, and manipulate bulk ERP data using Excel formulas (VLOOKUP, Pivot)?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_051",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Describe how you track warranty or service contracts inside a CRM system.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_052",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "How do you handle year-end financial or inventory closing in your ERP?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_053",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Walk me through how purchase requisitions are converted to approved Purchase Orders in ERP.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_054",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "Describe a scenario where system downtime threatened customer order dispatches.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_055",
+    "category": "ERP & CRM Systems",
+    "category_key": "erp_crm",
+    "question_text": "How do you log and escalate functional ERP bugs to the IT support / consulting partner?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_056",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "Walk me through how you plan daily dispatch routes to minimize freight costs.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_057",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "How do you manage Third-Party Logistics (3PL) partners and hold them accountable to SLAs?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_058",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "Describe a time a priority shipment was held up in transit. How did you resolve it?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_059",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "What key performance indicators (OTIF, lead time, freight cost per unit) do you track closely?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_060",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "How do you calculate Economic Order Quantity (EOQ) and safety stock levels?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_061",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "Describe your experience with warehouse layout optimization and slotting.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_062",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "How do you manage cold-chain or temperature-sensitive logistics compliance?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_063",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "Walk me through your process for handling damaged returns (Reverse Logistics).",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_064",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "How do you handle sudden freight rate spikes and carrier capacity shortages?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_065",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "Describe a time you audited freight freight bills and discovered billing discrepancies.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_066",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "How do you ensure compliance with state and regional transportation permits?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_067",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "Walk me through how you conduct physical inventory cycle counts in a distribution center.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_068",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "What strategies do you use to reduce warehouse demurrage and detention charges?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_069",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "Describe how you handle peak-season fulfillment surges without increasing error rates.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_070",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "How do you coordinate with freight forwarders for intermodal shipments?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_071",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "Walk me through how you evaluate and onboard a new regional transport partner.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_072",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "Describe a scenario where a container missed the port vessel cutoff. What was your mitigation plan?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_073",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "How do you track Fleet Management metrics like fuel efficiency, turnaround time, and idle hours?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_074",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "What inventory valuation methods (FIFO, LIFO, Weighted Average) have you applied?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_075",
+    "category": "Logistics & Supply Chain",
+    "category_key": "logistics",
+    "question_text": "How do you manage packaging standards to minimize transit breakages?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_076",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "Walk me through the end-to-end documentation flow for an ocean freight export consignment.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_077",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "What is the significance of the Shipping Bill and how do you file it on ICEGATE?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_078",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "Explain the key differences between various Incoterms (FOB, CIF, EXW, DDP).",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_079",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "How do you generate and verify an E-Way Bill for export cargo movements?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_080",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "Describe your experience with Customs clearance procedures and Bill of Entry filing.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_081",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "What is a Letter of Credit (LC) and how do you ensure zero discrepancies against LC terms?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_082",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "How do you classify goods using the correct Harmonized System (HS) code?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_083",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "Walk me through how you apply for and track export incentive schemes (RoDTEP, Duty Drawback).",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_084",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "What is the function of a Certificate of Origin, and when is an Apostille or Chamber attestation required?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_085",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "Describe how you handle a Customs query or physical inspection notification at the port/ICD.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_086",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "What documents are required to negotiate an export payment through the Authorized Dealer (AD) bank?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_087",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "Explain the difference between a Clean Bill of Lading and a Claused Bill of Lading.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_088",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "How do you track cargo using container tracking numbers and terminal operating systems?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_089",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "Walk me through your process for preparing a Commercial Invoice and Packing List.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_090",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "What steps do you take when cargo arrives damaged at the destination port?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_091",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "How do you ensure FEMA and RBI regulatory compliance for inward foreign remittances (FIRC/e-BRC)?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_092",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "What is an Advance Authorization License and how do you maintain duty-free import logs?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_093",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "Describe how you coordinate with Customs House Agents (CHAs) to expedite pending shipments.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_094",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "How do you handle shipment delays caused by shipping line container rolling?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_095",
+    "category": "Export-Import Documentation",
+    "category_key": "export_import",
+    "question_text": "Explain the purpose of Marine Transit Insurance and how you initiate a damage claim.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_096",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Walk me through the three golden rules of accounting and how you apply them in journal entries.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_097",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "How do you perform a monthly Bank Reconciliation Statement (BRS) in Tally or SAP?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_098",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Describe your experience with GST filing (GSTR-1, GSTR-3B) and Input Tax Credit (ITC) reconciliation.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_099",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Walk me through the Accounts Payable (AP) three-way match process (PO, GRN, Vendor Invoice).",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_100",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "How do you track and follow up on overdue Accounts Receivable (AR) aging buckets?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_101",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Describe your process for calculating and depositing TDS (Tax Deducted at Source) monthly.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_102",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "How do you maintain the petty cash book and ensure internal control compliance?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_103",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "What steps do you take during monthly or annual book closure?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_104",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Describe a time you detected an accounting discrepancy during an internal audit.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_105",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "How do you record depreciation of fixed assets using Straight-Line vs WDV methods?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_106",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Walk me through how you prepare a cash flow statement.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_107",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "How do you ensure compliance with corporate travel and expense reimbursement policies?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_108",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Describe your experience with payroll processing and statutory deductions (PF, ESI, Professional Tax).",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_109",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "How do you create financial variance reports comparing actual spending against budget?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_110",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Explain the accounting treatment for prepaid expenses and accrued liabilities.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_111",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "What advanced Excel formulas (XLOOKUP, SUMIFS, INDEX-MATCH) do you use in financial analysis?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_112",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "How do you handle debit notes and credit notes for returned merchandise?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_113",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Describe how you prepare documentation for statutory external auditors.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_114",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "How do you safeguard sensitive company financial data against unauthorized access?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_115",
+    "category": "Finance & Accounts Support",
+    "category_key": "finance",
+    "question_text": "Walk me through how you calculate working capital requirements.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_116",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Describe the software development lifecycle (SDLC) models you have worked with (Agile vs Waterfall).",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_117",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Walk me through how you write an SQL query involving multiple table JOINs, GROUP BY, and HAVING.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_118",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "How do you troubleshoot a critical application error or 500 internal server crash?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_119",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Describe your experience with REST API integrations and testing endpoints using Postman.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_120",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "How do you manage version control workflows in Git (branching, pull requests, resolving merge conflicts)?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_121",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Explain the difference between primary keys, foreign keys, and indexes in relational databases.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_122",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Describe a time you had to debug a production performance bottleneck.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_123",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "How do you write effective unit tests and ensure automated test coverage?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_124",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Walk me through your approach to database normalization and schema design.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_125",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "How do you manage environment configuration secrets and API credentials securely?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_126",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Describe your experience with cloud services (AWS, Google Cloud, Azure) and containerization (Docker).",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_127",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "How do you communicate technical requirements to non-technical business stakeholders?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_128",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Tell me about a time you had to learn a completely new framework or tool within a few days.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_129",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "How do you monitor application health, error rates, and latency in production?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_130",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Describe a time you handled a user data privacy or security incident.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_131",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "What is the difference between synchronous and asynchronous execution?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_132",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Walk me through how you design an automated batch data pipeline.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_133",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "How do you prioritize bug fixes versus new feature requests in a fast-paced sprint?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_134",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "Describe your experience with CI/CD deployment pipelines (GitHub Actions, Jenkins).",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_135",
+    "category": "IT, Software & Data Support",
+    "category_key": "it_data",
+    "question_text": "How do you document technical APIs and architecture for future developers?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_136",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "Why did you choose your field of study, and how has it prepared you for this corporate role?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_137",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "Describe an academic or internship project you are most proud of.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_138",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "How do you prioritize your time when you have multiple competing academic or work deadlines?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_139",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "Tell me about a time you worked in a group where a team member was not contributing.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_140",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "What specific technical or professional skills have you learned independently outside of college?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_141",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "How do you handle situations where you do not know the answer to a problem?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_142",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "Describe a presentation you gave in college and how you prepared for audience questions.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_143",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "Why should our company hire you over other candidates with similar qualifications?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_144",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "What are your expectations from your first professional manager?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_145",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "How do you react when you receive critical feedback on your work?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_146",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "Describe a challenging goal you set for yourself and how you achieved it.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_147",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "Tell me about a time you had to solve a problem with limited information.",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_148",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "What professional blogs, podcasts, or resources do you follow to stay updated in your field?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_149",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "Are you comfortable working in rotating shifts or relocating if the role requires?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  },
+  {
+    "id": "q_150",
+    "category": "Fresher & Career Starters",
+    "category_key": "fresher",
+    "question_text": "Where do you see yourself learning and contributing in your first 90 days on the job?",
+    "difficulty": "medium",
+    "suggested_approach": "Use the STAR framework (Situation, Task, Action, Result) with specific examples."
+  }
+]

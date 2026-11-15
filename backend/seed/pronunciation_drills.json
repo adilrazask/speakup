@@ -1,0 +1,366 @@
+{
+  "sentences": [
+    {
+      "id": "sen_01",
+      "text": "We verified the warehouse voucher very thoroughly before releasing the shipment."
+    },
+    {
+      "id": "sen_02",
+      "text": "Please submit the revised purchase order to the procurement department by Friday."
+    },
+    {
+      "id": "sen_03",
+      "text": "The operations team successfully eliminated the inventory bottleneck."
+    },
+    {
+      "id": "sen_04",
+      "text": "Our export consignment was cleared through customs without any demurrage charges."
+    },
+    {
+      "id": "sen_05",
+      "text": "I appreciate your timely feedback on our monthly financial reconciliation."
+    },
+    {
+      "id": "sen_06",
+      "text": "The shipping bill was filed on ICEGATE with the correct harmonized tariff code."
+    },
+    {
+      "id": "sen_07",
+      "text": "Could you please walk me through your standard operating procedure for returns?"
+    },
+    {
+      "id": "sen_08",
+      "text": "We achieved a significant reduction in dispatch turnaround time this quarter."
+    },
+    {
+      "id": "sen_09",
+      "text": "Effective cross-functional communication is essential for supply chain success."
+    },
+    {
+      "id": "sen_10",
+      "text": "I have consistently maintained high quality standards throughout my career."
+    },
+    {
+      "id": "sen_11",
+      "text": "The carrier delivered fifteen containers to the logistics hub this morning."
+    },
+    {
+      "id": "sen_12",
+      "text": "We need to schedule a brief meeting to discuss the new corporate policies."
+    },
+    {
+      "id": "sen_13",
+      "text": "Automating our daily reporting workflow saved three hours of manual data entry."
+    },
+    {
+      "id": "sen_14",
+      "text": "The vendor confirmed that raw material supplies will arrive as scheduled."
+    },
+    {
+      "id": "sen_15",
+      "text": "Please verify that the bank reconciliation statement matches the ledger balance."
+    },
+    {
+      "id": "sen_16",
+      "text": "Our team organized the warehouse layout to optimize picking and packing speed."
+    },
+    {
+      "id": "sen_17",
+      "text": "I took the initiative to resolve the discrepancy between physical stock and ERP counts."
+    },
+    {
+      "id": "sen_18",
+      "text": "The customer requested an expedited delivery for the urgent export order."
+    },
+    {
+      "id": "sen_19",
+      "text": "We must ensure complete compliance with international maritime shipping standards."
+    },
+    {
+      "id": "sen_20",
+      "text": "Thank you for considering my application for the Operations Lead role."
+    },
+    {
+      "id": "sen_21",
+      "text": "Practicing sentence 21: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_22",
+      "text": "Practicing sentence 22: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_23",
+      "text": "Practicing sentence 23: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_24",
+      "text": "Practicing sentence 24: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_25",
+      "text": "Practicing sentence 25: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_26",
+      "text": "Practicing sentence 26: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_27",
+      "text": "Practicing sentence 27: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_28",
+      "text": "Practicing sentence 28: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_29",
+      "text": "Practicing sentence 29: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_30",
+      "text": "Practicing sentence 30: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_31",
+      "text": "Practicing sentence 31: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_32",
+      "text": "Practicing sentence 32: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_33",
+      "text": "Practicing sentence 33: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_34",
+      "text": "Practicing sentence 34: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_35",
+      "text": "Practicing sentence 35: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_36",
+      "text": "Practicing sentence 36: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_37",
+      "text": "Practicing sentence 37: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_38",
+      "text": "Practicing sentence 38: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_39",
+      "text": "Practicing sentence 39: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_40",
+      "text": "Practicing sentence 40: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_41",
+      "text": "Practicing sentence 41: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_42",
+      "text": "Practicing sentence 42: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_43",
+      "text": "Practicing sentence 43: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_44",
+      "text": "Practicing sentence 44: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_45",
+      "text": "Practicing sentence 45: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_46",
+      "text": "Practicing sentence 46: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_47",
+      "text": "Practicing sentence 47: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_48",
+      "text": "Practicing sentence 48: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_49",
+      "text": "Practicing sentence 49: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_50",
+      "text": "Practicing sentence 50: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_51",
+      "text": "Practicing sentence 51: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_52",
+      "text": "Practicing sentence 52: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_53",
+      "text": "Practicing sentence 53: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_54",
+      "text": "Practicing sentence 54: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_55",
+      "text": "Practicing sentence 55: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_56",
+      "text": "Practicing sentence 56: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_57",
+      "text": "Practicing sentence 57: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_58",
+      "text": "Practicing sentence 58: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_59",
+      "text": "Practicing sentence 59: Professional workplace communication builds credibility and confidence during interviews."
+    },
+    {
+      "id": "sen_60",
+      "text": "Practicing sentence 60: Professional workplace communication builds credibility and confidence during interviews."
+    }
+  ],
+  "minimal_pairs": [
+    {
+      "pair": "vine vs wine",
+      "sound": "/v/ vs /w/",
+      "sentence": "He drank fine wine while inspecting the grape vine.",
+      "tip": "For /v/, touch upper teeth to lower lip. For /w/, round your lips like an 'oo' sound."
+    },
+    {
+      "pair": "very vs wary",
+      "sound": "/v/ vs /w/",
+      "sentence": "The logistics manager was very wary of unexpected transport delays.",
+      "tip": "Do not bite your lip for 'wary'; keep lips rounded."
+    },
+    {
+      "pair": "ship vs sheep",
+      "sound": "Short /\u026a/ vs Long /i\u02d0/",
+      "sentence": "The cargo ship carried fifty sheep across the sea.",
+      "tip": "Short 'i' in ship is quick and relaxed; 'ee' in sheep is longer and smiling."
+    },
+    {
+      "pair": "fit vs feet",
+      "sound": "Short /\u026a/ vs Long /i\u02d0/",
+      "sentence": "These safety shoes fit my feet comfortably.",
+      "tip": "Notice how your tongue stays relaxed for 'fit' and arches higher for 'feet'."
+    },
+    {
+      "pair": "sip vs ship",
+      "sound": "/s/ vs /\u0283/",
+      "sentence": "Take a quiet sip of coffee while watching the container ship dock.",
+      "tip": "For 'sip' keep tongue tip behind teeth; for 'ship' pull tongue back slightly."
+    },
+    {
+      "pair": "seat vs sheet",
+      "sound": "/s/ vs /\u0283/",
+      "sentence": "Please take a seat and review this balance sheet.",
+      "tip": "Do not slur /s/ into /sh/."
+    },
+    {
+      "pair": "thin vs tin",
+      "sound": "/\u03b8/ vs /t/",
+      "sentence": "The export parcel was wrapped in a thin layer of tin foil.",
+      "tip": "For 'thin', put tongue between teeth. For 'tin', tap tongue behind teeth."
+    },
+    {
+      "pair": "think vs tink",
+      "sound": "/\u03b8/ vs /t/",
+      "sentence": "I think we should not allow the metal parts to tink together.",
+      "tip": "Breathe gently through tongue and teeth for /\u03b8/."
+    },
+    {
+      "pair": "there vs dare",
+      "sound": "/\u00f0/ vs /d/",
+      "sentence": "Do not dare to go over there without a safety helmet.",
+      "tip": "Vibrate vocal cords with tongue between teeth for 'there'."
+    },
+    {
+      "pair": "wet vs vet",
+      "sound": "/w/ vs /v/",
+      "sentence": "The wet pavement caused the delivery driver to call a vet.",
+      "tip": "Round lips for wet; bite lower lip gently for vet."
+    },
+    {
+      "pair": "west vs vest",
+      "sound": "/w/ vs /v/",
+      "sentence": "The driver traveling west wore a fluorescent safety vest.",
+      "tip": "Differentiate the initial /w/ and /v/."
+    },
+    {
+      "pair": "wheel vs veal",
+      "sound": "/w/ vs /v/",
+      "sentence": "The cart wheel squeaked as we transported the veal consignment.",
+      "tip": "Keep lips round for wheel."
+    },
+    {
+      "pair": "chip vs ship",
+      "sound": "/t\u0283/ vs /\u0283/",
+      "sentence": "The microchip manufacturer will ship the order on Monday.",
+      "tip": "'ch' has an explosive stop; 'sh' is a smooth continuous flow."
+    },
+    {
+      "pair": "catch vs cash",
+      "sound": "/t\u0283/ vs /\u0283/",
+      "sentence": "If you catch the early courier, you will receive the cash voucher.",
+      "tip": "Finish 'catch' with a sharp stop."
+    },
+    {
+      "pair": "pen vs pan",
+      "sound": "/e/ vs /\u00e6/",
+      "sentence": "Use a ballpoint pen to sign for the metal pan delivery.",
+      "tip": "Drop your jaw wider for 'pan' than for 'pen'."
+    },
+    {
+      "pair": "bad vs bed",
+      "sound": "/\u00e6/ vs /e/",
+      "sentence": "He had a bad back after lifting the heavy bed frame.",
+      "tip": "Jaw drops open wide for 'bad'."
+    },
+    {
+      "pair": "full vs fool",
+      "sound": "Short /\u028a/ vs Long /u\u02d0/",
+      "sentence": "The fuel tank was full so don't be a fool and overfill it.",
+      "tip": "Short relaxed 'u' in full versus rounded long 'oo' in fool."
+    },
+    {
+      "pair": "pull vs pool",
+      "sound": "Short /\u028a/ vs Long /u\u02d0/",
+      "sentence": "Please pull the forklift away from the water pool.",
+      "tip": "Relax tongue for pull; tense lips for pool."
+    },
+    {
+      "pair": "cut vs cot",
+      "sound": "/\u028c/ vs /\u0252/",
+      "sentence": "We cut the plastic wrapping before assembling the wooden cot.",
+      "tip": "Central open sound for cut; rounded lips for cot."
+    },
+    {
+      "pair": "heart vs hurt",
+      "sound": "/\u0251\u02d0/ vs /\u025c\u02d0/",
+      "sentence": "My heart was relieved that nobody was hurt in the warehouse.",
+      "tip": "Open throat wide for 'heart'; keep lips neutral for 'hurt'."
+    }
+  ]
+}
