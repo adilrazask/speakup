@@ -73,7 +73,6 @@ PYTHONPATH=. uvicorn app.main:app --reload --port 8000
 ### Step 4: Start the Frontend Application
 In a separate terminal window:
 ```bash
-cd frontend
 npm install
 npm run dev
 ```
