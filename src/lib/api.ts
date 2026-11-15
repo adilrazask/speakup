@@ -86,6 +86,7 @@ export async function sendChatMessage(payload: {
   session_id: string;
   profile_id: string;
   content: string;
+  history?: Array<{ role: "user" | "model"; text: string }>;
   wpm?: number;
   audio_duration_seconds?: number;
 }): Promise<CorrectionCardResponse> {
@@ -98,6 +99,7 @@ export async function sendChatMessage(payload: {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         content: payload.content,
+        history: payload.history,
         apiKey: storedKey,
         targetRole: "Operations & Logistics",
         cefr: "B1"

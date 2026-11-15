@@ -118,11 +118,18 @@ export default function TalkPage() {
     setIsThinking(true);
 
     try {
+      // Build conversation history for smart AI memory
+      const history = messages.slice(-8).map((m) => ({
+        role: m.sender === "user" ? ("user" as const) : ("model" as const),
+        text: m.content
+      }));
+
       // Send turn to backend
       const cardResponse = await sendChatMessage({
         session_id: sessionId,
         profile_id: profile.id,
         content: text,
+        history,
       });
 
       const agentMsg: ChatMessage = {
