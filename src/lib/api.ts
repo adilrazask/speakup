@@ -89,12 +89,36 @@ export async function sendChatMessage(payload: {
   wpm?: number;
   audio_duration_seconds?: number;
 }): Promise<CorrectionCardResponse> {
+  const storedKey = typeof window !== "undefined" ? localStorage.getItem("speakup_gemini_key") || "" : "";
+
+  // 1. Try Next.js serverless route /api/chat (works directly on Vercel & Mobile!)
+  try {
+    const res = await fetch(`/api/chat`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        content: payload.content,
+        apiKey: storedKey,
+        targetRole: "Operations & Logistics",
+        cefr: "B1"
+      }),
+      signal: AbortSignal.timeout(8000),
+    });
+    if (res.ok) {
+      const card = await res.json();
+      if (card && card.reply) return card;
+    }
+  } catch (e) {
+    // try fallback
+  }
+
+  // 2. Try external FastAPI backend if configured
   try {
     const res = await fetch(`${API_BASE}/chat/message`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
-      signal: AbortSignal.timeout(6000),
+      signal: AbortSignal.timeout(4000),
     });
     if (res.ok) return await res.json();
   } catch (e) {

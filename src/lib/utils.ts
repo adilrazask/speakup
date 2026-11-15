@@ -11,7 +11,16 @@ export function formatTime(dateString?: string): string {
   return d.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
 }
 
-export function highlightMistakes(text: string, original: string, corrected: string): string {
-  if (!original) return text;
-  return text;
+export function clean_and_repair_json(raw: string): any {
+  let text = raw.trim();
+  const match = text.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+  if (match) {
+    text = match[1].trim();
+  }
+  try {
+    return JSON.parse(text);
+  } catch (e) {
+    const cleaned = text.replace(/,\s*([\]}])/g, "$1");
+    return JSON.parse(cleaned);
+  }
 }
